@@ -9,6 +9,7 @@ graph TD;
     E --> F[Explore Advanced Topics];
     F --> G[Apply Your Knowledge];
     G --> H[Stay Updated];
+```
 
 ## 1. Understand the Basics of Kinematics:
 - Grasp fundamental concepts like position, velocity, acceleration, and time.
