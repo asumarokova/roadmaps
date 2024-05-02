@@ -1,5 +1,15 @@
 # Roadmap: Studying Kinematic Design
 
+```mermaid
+graph TD;
+    A[Understand the Basics of Kinematics] --> B[Study Kinematic Diagrams];
+    B --> C[Explore Mechanism Analysis];
+    C --> D[Learn Kinematic Synthesis];
+    D --> E[Experiment with Software Tools];
+    E --> F[Explore Advanced Topics];
+    F --> G[Apply Your Knowledge];
+    G --> H[Stay Updated];
+
 ## 1. Understand the Basics of Kinematics:
 - Grasp fundamental concepts like position, velocity, acceleration, and time.
 - Learn about linear, rotational, and combined motion.
